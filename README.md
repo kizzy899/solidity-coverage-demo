@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
-=======
-# solidity-coverage-demo
-**仓库名称建议：**  
-`solidity-coverage-demo` 或 `hardhat-coverage-guide`
-
----
-
 # Solidity 测试覆盖率指南
 
 这是一个基于 Hardhat 和 Solidity 的智能合约测试覆盖率示例项目，展示了如何使用 `solidity-coverage` 插件来分析和提升智能合约的测试质量。
